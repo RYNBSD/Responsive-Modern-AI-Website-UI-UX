@@ -21,3 +21,13 @@
   --color-text: #81AFDD;
   --color-subtext: #FF8A71;
 }
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #81AFDD;
+}
+::-webkit-scrollbar-track {
+  background-color: #040C18;
+}
